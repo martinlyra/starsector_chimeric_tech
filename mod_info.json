@@ -1,8 +1,8 @@
 {
-	"id":"salvage_hulls",
-	"name":"Salvaged",
+	"id":"chimeric_tech",
+	"name":"Chimeric Technology",
 	"author":"Irrationalist",
 	"version":"0.0",
-	"description":"",
+	"description":"Adds ships made from technology and designs salvaged from high-tech, midline, and low-tech.",
 	"gameVersion":"0.9.1a"
 }

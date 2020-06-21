@@ -1,0 +1,68 @@
+{
+  "variantId": "chimera_crab_variant",
+  "hullId": "chimera_crab",
+  "displayName": "New Variant",
+  "goalVariant": false,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "mjolnir",
+        "WS0002": "mjolnir"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "salamanderpod",
+        "WS0004": "salamanderpod"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "taclaser",
+        "WS0006": "taclaser"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "lightdualmg",
+        "WS0008": "lightdualmg",
+        "WS0009": "lightdualmg",
+        "WS0010": "lightdualmg",
+        "WS0011": "lightdualmg",
+        "WS0012": "lightdualmg",
+        "WS0013": "lightdualmg",
+        "WS0014": "lightdualmg"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0015": "flak",
+        "WS0016": "flak"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": [
+    "cobra_wing",
+    "dagger_wing",
+    "talon_wing",
+    "talon_wing",
+    "longbow_wing",
+    "perdition_wing"
+  ]
+}

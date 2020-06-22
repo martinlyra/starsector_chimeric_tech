@@ -1,0 +1,143 @@
+{
+  "hullName": "Pecker",
+  "hullId": "chimera_pecker",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/chimera/ships/ship_21.png",
+  "style": "MIDLINE",
+  "height": 58,
+  "width": 90,
+  "center": [45, 29],
+  "collisionRadius": 50,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 66.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "armoredweapons",
+    "magazines"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [26, 15]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -0,
+      "locations": [26, -15]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [26, -0]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [16, 30]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -0,
+      "locations": [16, -30]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 245,
+      "angle": -90,
+      "locations": [-3.5, -29.5]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 245,
+      "angle": 90,
+      "locations": [-3.5, 29.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-29, 13],
+      "length": 34,
+      "width": 27,
+      "angle": 180,
+      "contrailSize": 27,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-29, -13],
+      "length": 34,
+      "width": 27,
+      "angle": -180,
+      "contrailSize": 27,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-29, 28.5],
+      "length": 34,
+      "width": 27,
+      "angle": 180,
+      "contrailSize": 27,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-29, -28.5],
+      "length": 34,
+      "width": 27,
+      "angle": -180,
+      "contrailSize": 27,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-16.5, 43],
+      "length": 30,
+      "width": 10,
+      "angle": 135,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-16.5, -43],
+      "length": 30,
+      "width": 10,
+      "angle": -135,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -29.5, 32,
+    -13.5, 45.5,
+    11, 41,
+    29.5, 20.5,
+    29.5, -20.5,
+    11, -41,
+    -13.5, -45.5,
+    -29.5, -32
+  ]
+}

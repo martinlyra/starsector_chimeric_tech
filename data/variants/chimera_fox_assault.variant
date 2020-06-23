@@ -3,11 +3,14 @@
   "hullId": "chimera_fox",
   "displayName": "Assault",
   "goalVariant": true,
-  "fluxCapacitors": 14,
-  "fluxVents": 15,
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
   "quality": 1,
   "permaMods": [],
-  "hullMods": [],
+  "hullMods": [
+    "reinforcedhull",
+    "fluxdistributor"
+  ],
   "weaponGroups": [
     {
       "autofire": true,

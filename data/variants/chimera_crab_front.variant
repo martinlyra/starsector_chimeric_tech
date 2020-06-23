@@ -3,11 +3,13 @@
   "hullId": "chimera_crab",
   "displayName": "Front",
   "goalVariant": true,
-  "fluxCapacitors": 0,
-  "fluxVents": 0,
+  "fluxCapacitors": 30,
+  "fluxVents": 25,
   "quality": 1,
   "permaMods": [],
-  "hullMods": [],
+  "hullMods": [
+    "stabilizedshieldemitter"
+  ],
   "weaponGroups": [
     {
       "autofire": true,

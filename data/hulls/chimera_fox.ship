@@ -1,16 +1,20 @@
 {
-  "hullName": "Phase Destroyer",
+  "hullName": "Fox",
   "hullId": "chimera_fox",
-  "hullSize": "DESTROYER",
+  "hullSize": "FRIGATE",
   "spriteName": "graphics/chimera/ships/ship_26.png",
   "style": "MIDLINE",
   "height": 153,
   "width": 94,
   "center": [47, 76.5],
-  "collisionRadius": 79.5,
+  "collisionRadius": 100,
   "shieldCenter": [0, 0],
   "shieldRadius": 90,
   "viewOffset": 0,
+  "builtInMods": [
+    "phasefield",
+    "auxiliarythrusters"
+  ],
   "weaponSlots": [
     {
       "id": "WS0001",
@@ -135,5 +139,20 @@
       "style": "MIDLINE"
     }
   ],
-  "bounds": []
+  "bounds": [
+    -75.5, 23,
+    -63, 37,
+    -25.5, 37,
+    -6.5, 46,
+    17.5, 46.5,
+    33, 17,
+    75.5, 7.5,
+    75.5, -7.5,
+    33, -17,
+    17.5, -46.5,
+    -6.5, -46,
+    -25.5, -37,
+    -63, -37,
+    -75.5, -23
+  ]
 }

@@ -1,0 +1,137 @@
+{
+  "hullName": "Bear",
+  "hullId": "chimera_bear",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/chimera/ships/ship_25.png",
+  "style": "MIDLINE",
+  "height": 186,
+  "width": 120,
+  "center": [60, 93],
+  "collisionRadius": 140.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 125,
+  "viewOffset": 0,
+  "builtInMods": [
+    "phasefield"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "UNIVERSAL",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [75, 22]
+    },
+    {
+      "id": "WS0002",
+      "size": "LARGE",
+      "type": "UNIVERSAL",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [75, -22]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 0,
+      "locations": [46, 46]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": -0,
+      "locations": [46, -46]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": 45,
+      "locations": [6, 31]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": -45,
+      "locations": [6, -31]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 285,
+      "angle": 130,
+      "locations": [-34, 45.5]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 285,
+      "angle": -130,
+      "locations": [-34, -45.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-87, 6.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-87, -6.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-93.5, 23.5],
+      "length": 42,
+      "width": 22,
+      "angle": 180,
+      "contrailSize": 22,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-93.5, -23.5],
+      "length": 42,
+      "width": 22,
+      "angle": -180,
+      "contrailSize": 22,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -92.5, 37,
+    -39.5, 57.5,
+    7.5, 60,
+    67.5, 55.5,
+    93.5, 37.5,
+    93.5, -37.5,
+    67.5, -55.5,
+    7.5, -60,
+    -39.5, -57.5,
+    -92.5, -37
+  ]
+}

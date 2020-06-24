@@ -1,0 +1,41 @@
+{
+  "variantId": "chimera_bear_artillery",
+  "hullId": "chimera_bear",
+  "displayName": "Artillery",
+  "goalVariant": true,
+  "fluxCapacitors": 11,
+  "fluxVents": 15,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "mark9",
+        "WS0002": "mark9"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "taclaser",
+        "WS0004": "taclaser"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "lrpdlaser",
+        "WS0006": "lrpdlaser",
+        "WS0007": "lrpdlaser",
+        "WS0008": "lrpdlaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

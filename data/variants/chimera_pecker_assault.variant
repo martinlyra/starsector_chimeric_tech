@@ -1,7 +1,7 @@
 {
   "variantId": "chimera_pecker_assault",
   "hullId": "chimera_pecker",
-  "displayName": "Assault\r",
+  "displayName": "Assault",
   "goalVariant": true,
   "fluxCapacitors": 9,
   "fluxVents": 10,

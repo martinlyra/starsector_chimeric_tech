@@ -1,0 +1,207 @@
+{
+  "hullName": "Petrel",
+  "hullId": "chimera_petrel",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/chimera/ships/ship_23.png",
+  "style": "MIDLINE",
+  "height": 87,
+  "width": 164,
+  "center": [82, 43.5],
+  "collisionRadius": 117.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 105,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [28, 33.5]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -0,
+      "locations": [28, -33.5]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [12.5, -0]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": 0,
+      "locations": [-8.5, 36]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": -0,
+      "locations": [-8.5, -36]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 90,
+      "locations": [-8.5, 67]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -90,
+      "locations": [-8.5, -67]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-40.5, -5.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-40.5, 5.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-44, 15],
+      "length": 43,
+      "width": 13,
+      "angle": -180,
+      "contrailSize": 13,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-44, -15],
+      "length": 43,
+      "width": 13,
+      "angle": 180,
+      "contrailSize": 13,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-44, 29.5],
+      "length": 49.5,
+      "width": 22,
+      "angle": -180,
+      "contrailSize": 22,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-44, -29.5],
+      "length": 49.5,
+      "width": 22,
+      "angle": 180,
+      "contrailSize": 22,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-32.5, 43],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-32.5, -43],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-34.5, 56],
+      "length": 46,
+      "width": 26,
+      "angle": -180,
+      "contrailSize": 26,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-34.5, -56],
+      "length": 46,
+      "width": 26,
+      "angle": 180,
+      "contrailSize": 26,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-30, 70.5],
+      "length": 30,
+      "width": 10,
+      "angle": 140,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-30, -70.5],
+      "length": 30,
+      "width": 10,
+      "angle": -140,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-28, 80.5],
+      "length": 39.98008,
+      "width": 19.062338,
+      "angle": 140,
+      "contrailSize": 19.062338,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-28, -80.5],
+      "length": 39.98008,
+      "width": 19.062338,
+      "angle": -140,
+      "contrailSize": 19.062338,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -43.5, 33.5,
+    -28, 81.5,
+    -8, 82.5,
+    32.5, 55.5,
+    45, 28.5,
+    31, 15,
+    31, -15,
+    45, -28.5,
+    32.5, -55.5,
+    -8, -82.5,
+    -28, -81.5,
+    -43.5, -33.5
+  ]
+}

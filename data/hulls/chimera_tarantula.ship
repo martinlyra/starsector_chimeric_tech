@@ -1,0 +1,196 @@
+{
+  "hullName": "Tarantula",
+  "hullId": "chimera_tarantula",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/chimera/ships/ship_14.png",
+  "style": "MIDLINE",
+  "height": 405,
+  "width": 348,
+  "center": [174, 202.5],
+  "collisionRadius": 262.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 255,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        63.5, -20,
+        64.5, -43,
+        79.5, -43.5,
+        80, -20
+      ]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        53.5, -14,
+        53.5, 14.5,
+        68, 12.5,
+        68, -12
+      ]
+    },
+    {
+      "id": "LB 3",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        64.5, 43,
+        80.5, 43,
+        80.5, 20,
+        64.5, 20
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-179, -140.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-179, 140.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-183, -131],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-183, 131],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-182.5, -113.5],
+      "length": 56.5,
+      "width": 25,
+      "angle": 180,
+      "contrailSize": 25,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-182.5, 113.5],
+      "length": 56.5,
+      "width": 25,
+      "angle": -180,
+      "contrailSize": 25,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-182, -94.5],
+      "length": 65,
+      "width": 29,
+      "angle": 180,
+      "contrailSize": 29,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-182, 94.5],
+      "length": 65,
+      "width": 29,
+      "angle": -180,
+      "contrailSize": 29,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-195, -60.5],
+      "length": 78.5,
+      "width": 33,
+      "angle": 180,
+      "contrailSize": 33,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-195, 60.5],
+      "length": 78.5,
+      "width": 33,
+      "angle": -180,
+      "contrailSize": 33,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-202, -36],
+      "length": 97,
+      "width": 41,
+      "angle": 180,
+      "contrailSize": 41,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-202, 36],
+      "length": 97,
+      "width": 41,
+      "angle": -180,
+      "contrailSize": 41,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-202, -11],
+      "length": 72,
+      "width": 32,
+      "angle": 180,
+      "contrailSize": 32,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-202, 11],
+      "length": 72,
+      "width": 32,
+      "angle": -180,
+      "contrailSize": 32,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -201, 43,
+    -176.5, 156.5,
+    -100.5, 161,
+    -51, 141,
+    -26.5, 167,
+    27, 173,
+    85, 161,
+    98.5, 135,
+    178.5, 125,
+    205.5, 72,
+    101.5, 54,
+    101.5, -54,
+    205.5, -72,
+    178.5, -125,
+    98.5, -135,
+    85, -161,
+    27, -173,
+    -26.5, -167,
+    -51, -141,
+    -100.5, -161,
+    -176.5, -156.5,
+    -201, -43
+  ]
+}

@@ -1,0 +1,2 @@
+name	id	tags	rarity	base price	stack size	cargo space	icon	sound id	sound id drop	plugin	plugin params	desc	order
+Chimeric Tech Blueprint Package	chimeric_tech_package	package_bp		200000	1000	1	graphics/icons/cargo/blueprint_lowtech.png	ui_chip_pickup	ui_bp_package_drop	com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin	chimeric_bp	"Enables heavy industry to construct the ship hulls, weapons, and fighter LPCs from the ""chimeric tech"" school of design."	200

@@ -1,0 +1,103 @@
+{
+  "variantId": "chimera_tarantula_command",
+  "hullId": "chimera_tarantula",
+  "displayName": "Command",
+  "goalVariant": true,
+  "fluxCapacitors": 36,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "advancedshieldemitter",
+    "ecm",
+    "hardenedshieldemitter",
+    "high_maintenance",
+    "nav_relay"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0025": "tachyonlance",
+        "WS0026": "tachyonlance",
+        "WS0027": "tachyonlance"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "ionbeam",
+        "WS0006": "ionbeam",
+        "WS0015": "ioncannon",
+        "WS0016": "ioncannon",
+        "WS0028": "devastator",
+        "WS0029": "devastator",
+        "WS0034": "ioncannon",
+        "WS0035": "ioncannon"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0030": "heavyburst",
+        "WS0031": "heavyburst",
+        "WS0036": "mjolnir",
+        "WS0037": "mjolnir"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "heatseeker",
+        "WS0004": "heatseeker",
+        "WS0011": "pilum",
+        "WS0012": "pilum",
+        "WS0013": "atropos",
+        "WS0014": "atropos",
+        "WS0019": "heatseeker",
+        "WS0020": "heatseeker",
+        "WS0042": "annihilator_fighter",
+        "WS0043": "annihilator_fighter"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "dualflak",
+        "WS0002": "dualflak",
+        "WS0007": "lightdualmg",
+        "WS0008": "lightdualmg",
+        "WS0009": "pdburst",
+        "WS0010": "pdburst",
+        "WS0017": "pdburst",
+        "WS0018": "pdburst",
+        "WS0021": "pdburst",
+        "WS0022": "pdburst",
+        "WS0023": "pdburst",
+        "WS0024": "pdburst",
+        "WS0032": "dualflak",
+        "WS0033": "dualflak",
+        "WS0038": "pdburst",
+        "WS0039": "pdburst",
+        "WS0040": "pdburst",
+        "WS0041": "pdburst"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": [
+    "cobra_wing",
+    "cobra_wing",
+    "longbow_wing",
+    "longbow_wing",
+    "trident_wing",
+    "trident_wing",
+    "warthog_wing",
+    "broadsword_wing"
+  ]
+}
